@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+body {
+    font-family: 'poiret one' , sans-serif;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    display: inline;
+
+}
+.social img {
+width: 30px;
+}
+ul {
+    display: inline;
+}
+a {
+    text-decoration: none;
+}
+h1 {
+    text-align: center;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    align-items: inline;
+}
