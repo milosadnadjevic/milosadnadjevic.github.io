@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Poiret+One');
 body {
     font-family: 'poiret one' , sans-serif;
-}
-footer {
-    position: absolute;
-    bottom: 0;
-    display: inline;
-
+    font-size: large;
 }
 .social img {
-width: 30px;
+width: 35px;
+position: relative;
 }
 ul {
     display: inline;
+    text-align: center;
+}
+.nav {
+    text-align: center;
 }
 a {
     text-decoration: none;
@@ -20,9 +20,18 @@ a {
 h1 {
     text-align: center;
 }
-footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    align-items: inline;
+li {
+    display: inline;
+}
+p {
+display: inline-block;
+text-align: center;
+}
+#nav {
+    text-align: center;
+    padding left: 20px;
+}
+.nav {
+    padding-left: 30px;
+    padding-right: 30px;
 }
